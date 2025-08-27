@@ -14,7 +14,7 @@ from app.models import (
 )
 
 app = FastAPI()
-GIGACHAT_API_KEY = 'MjM1NGYzZWYtYWViOC00N2Q2LTgxYjAtZDYyOTU0N2ViZjI0OjdiZTg4YjQ3LTFkMjAtNDY1OC04OGYwLTQ5ZjA4OGI0OWVjOA=='
+GIGACHAT_API_KEY = '' #Your API
 # Конфигурация GigaChat
 #GIGACHAT_CREDENTIALS = os.getenv(response.text)  # Ваш токен из переменных окружения
 
